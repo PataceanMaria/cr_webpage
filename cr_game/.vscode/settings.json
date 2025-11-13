@@ -1,0 +1,7 @@
+{
+  "terminal.integrated.enabled": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.showExitAlert": false
+}
+
+
